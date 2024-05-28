@@ -7,12 +7,22 @@ body {
   font-size: 12pt;
   margin: 0;
   padding: 1rem;
-  /* display: grid;
+  display: grid;
   place-items: center;
-  min-height: 100vh; */
+  min-height: 100vh;
 }
 ::marker {
   font-weight: 600;
   color: tomato;
   font-size: 12pt;
+}
+
+.ingredients {
+  width: 500px;
+}
+.directions {
+  width: 500px;
+}
+.instructions {
+  width: 500px;
 }
